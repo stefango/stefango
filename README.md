@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<span style="float:left;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefango&show_icons=true&theme=radical" alt="top languages" />
+</span>
+<span style="float:right;">
+  <img src="https://github-readme-stats.vercel.app/api?username=stefango&show_icons=true&theme=radical" alt="github stats" style="float:right;" />
+</span>
 <!--
 **stefango/stefango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
