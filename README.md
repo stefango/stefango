@@ -1,7 +1,10 @@
 ### Hi there 👋
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefango&show_icons=true&theme=radical&hide=html" alt="top languages" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api?username=stefango&show_icons=true&theme=radical" alt="github stats"/>
-<br/><br/>
+<div style="margin-top: 100px" id='placeholder-xzl' }/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=stefango&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### Counter
 <a href="https://info.flagcounter.com/cJsw"><img src="https://s01.flagcounter.com/count2/cJsw/bg_000000/txt_CCCCCC/border_CCCCCC/columns_8/maxflags_24/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
