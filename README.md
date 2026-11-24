@@ -1,7 +1,7 @@
 ### Hi there 👋
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stefango&show_icons=true&theme=radical&hide=html" alt="top languages" align="left"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=stefango&show_icons=true&theme=radical" alt="github stats"/>
-<div style="margin-top: 100px" id='placeholder-xzl' }/>
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefango&show_icons=true&theme=radical&hide=html)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=stefango&show_icons=true&theme=radical)
 
 <!--
 **stefango/stefango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
